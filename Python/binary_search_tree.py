@@ -1,5 +1,5 @@
 '''
-Binary Search Tree; An intuitive data structure each node's left subtree contains values less than the node and the right subtree contains the values greater.
+Binary Search Tree; An intuitive data structure where each node's left subtree contains values less than the node and the right subtree contains the values greater.
 
 Efficient searching, insertion and deletion (O(log n)), uses a set of recursive functions to achieve this.
 
